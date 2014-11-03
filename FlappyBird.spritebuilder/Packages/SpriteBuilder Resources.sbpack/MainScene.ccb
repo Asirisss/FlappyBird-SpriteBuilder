@@ -140,7 +140,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>parallaxContainer</string>
+				<string>_parallaxContainer</string>
 				<key>memberVarAssignmentName</key>
 				<string>_parallaxContainer</string>
 				<key>memberVarAssignmentType</key>
